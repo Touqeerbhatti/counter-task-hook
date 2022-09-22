@@ -19,6 +19,7 @@ return(
 <h1  className="heading"> {count} </h1>
 <button className="btn1" onClick={incount} >ADD</button>
 <button className="btn1" onClick={resetbtn}>Subtract</button>
+<button className="btn1" onClick={resetbtn}>reset</button>
 </div>
 </>
 );
